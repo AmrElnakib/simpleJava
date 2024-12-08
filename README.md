@@ -1,0 +1,1 @@
+Simple java code to explain: passing an object reference, passing by value, increments, method overloading, two dimensional array, for, while, do while loops, continue. nested loops, Array list, encapsulation, if/else.
